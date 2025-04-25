@@ -1,0 +1,28 @@
+                  LIBRARY      MANAGEMENT
+
+
+
+Introduction
+
+Library management system is a system which provides information about the library 
+
+Purpose
+
+The purpose of library management system is to provide the user with the available books in the library
+
+Scope
+
+The scope of the library management system is to make user get the information of the books
+
+Functional Requirements
+
+·Book shelf
+·Book management
+·cleaning of library
+
+
+
+Non functional requirements
+
+·Managing the staff
+·Managing the library
